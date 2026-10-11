@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.29)  11 OCT 2026 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.29)  11 OCT 2026 20:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -691,21 +691,15 @@ File: figures/pvm_utility.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/pvm_utility.pdf  used on input line 217.
 (pdftex.def)             Requested size: 318.66948pt x 196.9936pt.
  [8 <./figures/pvm_before_after.pdf> <./figures/pvm_utility.pdf>] [9]
-(./appendix_failures.tex [10])
-runsystem(rm _minted-assignment2/default.pygstyle)...executed.
-
-runsystem(rm _minted-assignment2/BFA85DB37988834DF05E35C353819EEC84C3202DF38D36
-81D754FA899525F1B0.pygtex)...executed.
-
- [11] (./assignment2.aux)
+(./appendix_failures.tex [10]) [11] (./assignment2.aux)
 Package rerunfilecheck Info: File `assignment2.out' has not changed.
 (rerunfilecheck)             Checksum: A423BEE288FC080DFB0C0B5EFA61F645;1309.
  ) 
 Here is how much of TeX's memory you used:
- 15118 strings out of 476025
- 262043 string characters out of 5790017
- 1871388 words of memory out of 5000000
- 35298 multiletter control sequences out of 15000+600000
+ 15109 strings out of 476025
+ 261658 string characters out of 5790017
+ 1872388 words of memory out of 5000000
+ 35294 multiletter control sequences out of 15000+600000
  521106 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,76p,843b,627s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -731,10 +725,10 @@ dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2023/texmf-dist
 /fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on assignment2.pdf (11 pages, 494950 bytes).
+Output written on assignment2.pdf (11 pages, 496009 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
+ 459 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
  46 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
