@@ -1,6 +1,5 @@
 # DecodingTrust evaluation of Phi-3.5-mini-instruct
 
-Code and report for 1RT730 Hand-in Assignment 2.
 
 ## Notebooks
 
